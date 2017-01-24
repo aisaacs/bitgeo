@@ -1,5 +1,7 @@
 # `bitgeo`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/bitgeo.svg)](https://greenkeeper.io/)
+
 Transforms any GeoJSON into a data structure that can be efficiently queried to determine (roughly) where data is present or absent.
 
 ## API
